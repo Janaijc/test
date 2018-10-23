@@ -41,3 +41,9 @@
 - [X] `alert("Hello World");`
 - [ ] `msg("Hello World");`
 
+7. ¿Cómo creas una función en JavaScript?
+
+- [X] `function myFunction()`
+- [ ] `function = myFunction()`
+- [ ] `function:myFunction()`
+
