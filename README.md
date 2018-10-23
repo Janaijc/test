@@ -47,3 +47,8 @@
 - [ ] `function = myFunction()`
 - [ ] `function:myFunction()`
 
+8. ¿Cómo ejecutas una función llamada "myFunction"?
+
+- [X] `myFunction()`
+- [ ] `call myFunction()`
+- [ ] `call function myFunction()`
