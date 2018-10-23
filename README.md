@@ -3,9 +3,9 @@
 1. Dentro de HTML, en cual tag se coloca el código de JS?
 
 - [ ] `<scripting>`
-- [ ] `<scrip>`
+- [X] `<scrip>`
 - [ ] `<js>`
-- [X] `<javascript>`
+- [ ] `<javascript>`
 
 2. Cuál es la sintaxis de JavaScript correcta para cambiar el contenido del elemento de HTML siguiente: 
 
@@ -20,8 +20,8 @@
 3. ¿Cuál es el lugar correcto para insertar JavaScript?
 
 - [ ] En la sección de `<head>`.
-- [ ] Ambas secciones `<head>` y `<body>` son correctas.
-- [X] En la sección de `<body>`.
+- [X] Ambas secciones `<head>` y `<body>` son correctas.
+- [ ] En la sección de `<body>`.
 
 4. ¿Cuál es la sintaxis correcta para referirse a un script externo llamado "xxx.js"?
 
@@ -94,10 +94,10 @@
 
 15. ¿Cuál es la manera correcta de escribir un ARRAY en JavaScript?
 
-- [ ] `var colors = ["red", "green", "blue"]`
+- [X] `var colors = ["red", "green", "blue"]`
 - [ ] `var colors = "red", "green", "blue"`
 - [ ] `var colors = (1:"red", 2:"green", 3:"blue")`
-- [X] `var colors = 1 = ("red"), 2 = ("green"), 3 = ("blue")`
+- [] `var colors = 1 = ("red"), 2 = ("green"), 3 = ("blue")`
 
 16. ¿JavaScript es lo mismo que Java?
 
