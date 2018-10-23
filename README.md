@@ -103,3 +103,23 @@
 
 - [ ] Verdadero
 - [X] Falso
+
+17. ¿Cómo declaras una variable en JavaScript?
+
+ - [ ] `v carName;`
+ - [ ] `variable carName;`
+ - [X] `var carName;`
+
+  18. ¿Qué operador se usa para asignar un valor a una variable?
+
+ - [X] `=`
+ - [ ] `*`
+ - [ ] `x`
+ - [ ] `-`
+
+  19. ¿Qué regresa la siguiente línea de código: `Boolean(10 > 9)`?
+
+- [X] `true`
+- [ ] `NaN`
+- [ ] `false`
+
