@@ -85,3 +85,10 @@
 - [ ] `'This is a comment`
 - [X] `//This is a comment`
 - [ ] `<!--This is a comment-->`
+
+14. ¿Cómo insertar un comentario que tenga mas de una línea?
+
+- [ ] `<!--This comment has more than one line-->`
+- [X] `/*This comment has more than one line*/`
+- [ ] `//This comment has more than one line//`
+
