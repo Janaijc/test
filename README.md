@@ -52,3 +52,10 @@
 - [X] `myFunction()`
 - [ ] `call myFunction()`
 - [ ] `call function myFunction()`
+
+9. ¿Cómo se escribe un IF en JavaScript?
+
+- [ ] `if i = 5`
+- [X] `if (i == 5)`
+- [ ] `if i = 5 then`
+- [ ] `if i == 5 then`
