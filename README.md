@@ -59,3 +59,10 @@
 - [X] `if (i == 5)`
 - [ ] `if i = 5 then`
 - [ ] `if i == 5 then`
+
+10. ¿Cómo escribir un IF para ejecutar código si "i" no es igual a 5?
+
+- [ ] `if i =! 5 then`
+- [ ] `if (i <> 5)`
+- [X] `if (i != 5)`
+- [ ] `if i <> 5`
