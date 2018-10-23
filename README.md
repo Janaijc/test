@@ -66,3 +66,9 @@
 - [ ] `if (i <> 5)`
 - [X] `if (i != 5)`
 - [ ] `if i <> 5`
+
+11. ¿Cómo se inicia un loop WHILE?
+
+- [ ] `while (i <= 10; i++)`
+- [X] `while (i <= 10)`
+- [ ] `while i = 1 to 10`
